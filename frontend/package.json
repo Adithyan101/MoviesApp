@@ -13,6 +13,7 @@
     "@reduxjs/toolkit": "^2.8.2",
     "@tailwindcss/vite": "^4.1.7",
     "carousel": "^0.0.3",
+    "lucide-react": "^0.511.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-hot-toast": "^2.5.2",
@@ -21,6 +22,7 @@
     "react-router": "^7.6.0",
     "react-router-dom": "^7.6.0",
     "react-slick": "^0.30.3",
+    "react-toastify": "^11.0.5",
     "slick": "^1.12.2",
     "tailwindcss": "^4.1.7"
   },
